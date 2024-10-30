@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Currency</string>
+    <string-array id = "countries" name="countries">
+        <item>VietNam - Dong</item>
+        <item>China - Yuan</item>
+        <item>Europe - Euro</item>
+        <item>Japan - Yen</item>
+        <item>United Kingdom - Pound</item>
+        <item>United States - Dollar</item>
+    </string-array>
+</resources>
